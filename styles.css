@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204);
+	
+}
+
+#box1{
+	border: 2px solid;
+	border-radius: 5px;
+	background-color: white;
+	list-style-type: none;
+	text-decoration: none;
+}
+
+#box2{
+	background-color: rgb(255, 255, 255);
+	padding: 1px;
+	border-radius: 5px;
+	border: 2px solid;
+	
+	justify-content: center;
+	text-align: center
+}
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+.player_one{
+	text-align: center;
+}
+
+.player_two{
+	text-align: center;
+	
+}
